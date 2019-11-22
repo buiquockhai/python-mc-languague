@@ -1,0 +1,6 @@
+ 
+        [<EntryPoint>]
+        let main argv = 
+            printfn "Hello Antlr4" argv
+            0
+        

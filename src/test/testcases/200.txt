@@ -1,0 +1,8 @@
+ 
+        Module module
+            Sub Main()
+                Console.WriteLine("Hello Antlr4")
+                Console.ReadKey()
+            End Sub
+        End Module
+        

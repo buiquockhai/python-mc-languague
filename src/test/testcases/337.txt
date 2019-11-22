@@ -1,0 +1,4 @@
+int main() {
+            for (1;true;true) print("Hello Python3");
+            int a;
+        }

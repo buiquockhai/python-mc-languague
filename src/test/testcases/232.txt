@@ -1,0 +1,8 @@
+
+        void Dog_Function(){
+            printf("");
+        }
+        int main() {
+            int arr[5];
+            arr[1] = Dog_Function();
+        }

@@ -1,0 +1,4 @@
+
+        int main() {
+            if ("string") int foo(2) {};
+        }

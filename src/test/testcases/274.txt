@@ -1,0 +1,13 @@
+
+        void Dog_Function(){{}}
+
+        int main() {
+            {a=5; {}}
+            {}
+            if (true) {
+                {
+                    int i;
+                    for(i=0;i<=10;i=i+1) a=10;
+                }
+            }
+        }

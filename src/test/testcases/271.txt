@@ -1,0 +1,7 @@
+
+        void Dog_Function(){{}}
+
+        int main() {
+            {a=5; {}}
+            {}
+        }

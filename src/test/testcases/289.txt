@@ -1,0 +1,12 @@
+
+        int main() {
+            int i, start, end;
+            start = 1;
+            end = 10;
+            
+            printf("In cac so theo thu tu tang dan:");
+            for(i = start; i <= end; i++) 
+                printf("%2d", i);
+
+            return 0;
+        }

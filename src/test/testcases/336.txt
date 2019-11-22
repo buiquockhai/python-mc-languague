@@ -1,0 +1,3 @@
+int main() {
+            for (1;true;true) int a;
+        }

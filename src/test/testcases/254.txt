@@ -1,0 +1,11 @@
+
+        int main() {
+            if (!true) {
+                {}
+                do {
+                    if (false) a; 
+                } while (a==b);
+            } else{
+                y = x*x + 3;
+            } else {}
+        }

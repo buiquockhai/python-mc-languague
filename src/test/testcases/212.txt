@@ -1,0 +1,6 @@
+
+        float Dog_Function() {}
+        void Cat_Function() {
+            // Not having main function
+            printf("Hello Antlr4");
+        }

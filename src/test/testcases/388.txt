@@ -1,0 +1,15 @@
+
+        int main () {
+            int total;
+            printf(" Function : a simple structure of function :");
+            printf("------------------------------------------------");	
+            total = sum (5, 6); //function call
+            printf ("The total is :  %d", total);
+            return 0;
+        }
+        int sum (int a, int b) {
+            int s;
+            s=a+b;
+            return s; //function returning a value
+        }
+        

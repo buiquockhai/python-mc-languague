@@ -1,0 +1,11 @@
+
+        int foo(int a) {
+            int b;
+            b = a;
+            printf("ID = ",a);
+            return b;
+        }
+        int main() {
+            int arr[5];
+            arr[1] = foo(arr[0]);
+        }

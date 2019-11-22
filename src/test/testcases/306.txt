@@ -1,0 +1,2 @@
+int main(float b) {}
+        string[] foo(int a[]) {}

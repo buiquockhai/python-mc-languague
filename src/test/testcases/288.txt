@@ -1,0 +1,13 @@
+
+        int a, b;
+        a = 11;
+        b = 121;
+        int main() {
+            printf("Gia tri truoc khi trao doi:  a = %d, b = %d ", a, b);
+
+            a = a + b;  // ( 11 + 121 = 132)
+            b = a - b;  // ( 132 - 121 = 11)
+            a = a - b;  // ( 132 - 11 = 121)
+
+            printf("Gia tri sau khi trao doi:  a = %d, b = %d ", a, b);
+        }

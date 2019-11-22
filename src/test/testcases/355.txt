@@ -1,0 +1,3 @@
+int main() {
+            a = a + b * c;
+        }

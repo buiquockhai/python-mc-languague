@@ -1,0 +1,8 @@
+int main() {
+            for (a>3;true;1+2) {
+                print("Hello Python3");
+            }
+        }
+        void foo() {
+            for (1;2;3) {}
+        }

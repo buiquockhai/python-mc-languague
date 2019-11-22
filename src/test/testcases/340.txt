@@ -1,0 +1,5 @@
+int main() {
+            for (1;true;true) {
+                for (true;true;true) a = a + 2;
+            }
+        }

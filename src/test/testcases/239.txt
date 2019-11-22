@@ -1,0 +1,9 @@
+
+        void Dog_Function(){
+            do {
+                do {} while;
+            } {} while a == b;
+        }
+        
+        int main() {
+        }

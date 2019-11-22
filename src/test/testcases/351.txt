@@ -1,0 +1,4 @@
+int main() {
+            int a;
+            for (a;a<10;a=a+1) break;
+        }

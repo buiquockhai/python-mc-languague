@@ -1,0 +1,4 @@
+int main() {
+            string a,b,c;
+            a = a + b * c = foo(2) +b = arr[a[10]];
+        }

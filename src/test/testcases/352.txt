@@ -1,0 +1,7 @@
+int main() {
+            int a;
+            for (a;a<10;a=a+1) {
+                print("Hello Python3");
+                if (a%10) break;
+            }
+        }

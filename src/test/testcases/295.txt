@@ -1,0 +1,13 @@
+
+        int main() {
+            int a,b;
+            a = 5;
+            b = 10;
+            int *ptr1, *ptr2;
+            int num;
+
+            num = *ptr1 + *ptr2;
+
+            printf("Tong hai so = %d", num);
+            return (0);
+        }

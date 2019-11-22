@@ -1,0 +1,9 @@
+
+        void Dog_Function(){
+            do {
+                void Cat_Function() {}
+            } while (!true);
+        }
+        
+        int main() {
+        }

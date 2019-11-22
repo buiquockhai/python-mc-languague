@@ -1,0 +1,9 @@
+
+        int main() {
+            int i,j;
+            for(i=0;i<=1000;i=i+1){
+                i = i + 1;
+                do {} {} break; while(true);
+                if(i>=1000) break; else continue;
+            }
+        }

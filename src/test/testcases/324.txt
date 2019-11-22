@@ -1,0 +1,6 @@
+void foo(int a) {
+            do {
+                {}
+                a = a - 1;
+            } while (1+1);
+        }

@@ -1,0 +1,6 @@
+
+        float var = 2.5;
+        void Dog_Function() {
+            int var = 3;
+        }
+        int main() {}

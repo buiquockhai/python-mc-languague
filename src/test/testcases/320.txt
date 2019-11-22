@@ -1,0 +1,4 @@
+int[] main() {
+            int a;
+            do print("Hello Python3"); while (true);
+        }

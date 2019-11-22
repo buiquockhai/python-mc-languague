@@ -1,0 +1,8 @@
+
+        float Dog_Function() {}
+        void +() {}
+        int main() {
+            printf("Hello Antlr4");
+            {}
+            {}
+        }

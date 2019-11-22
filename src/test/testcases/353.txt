@@ -1,0 +1,10 @@
+float foo(float a) {
+            return a*a;
+        }
+        int main() {
+            int a;
+            for (a;a<10;a=a+1) {
+                if (a%10) continue;
+                print(foo(a));
+            }
+        }

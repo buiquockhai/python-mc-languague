@@ -1,0 +1,8 @@
+ 
+        egin{figure}[h]
+		    \centering
+		    \includegraphics[width=1\linewidth]{1}
+		    \caption{}
+		    \label{fig:1}
+	    \end{figure}
+        

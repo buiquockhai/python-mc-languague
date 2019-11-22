@@ -1,0 +1,13 @@
+boolean check(string a) {
+            if(!isempty(a)) return true;
+            else return false;
+        }
+        int main() {
+            int a;
+            string arr;
+            for (a;a<10;a=a+1) {
+                do print("Hello Python3"); while (arr[a]);
+                if(!arr[a]) break;
+            }
+            return 0;
+        }

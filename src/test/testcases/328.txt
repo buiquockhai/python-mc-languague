@@ -1,0 +1,8 @@
+int main() {
+            if (1) {}
+        }
+        void foo(int a) {
+            if (a) {
+                a = a + 1;
+            }
+        }

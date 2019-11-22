@@ -1,0 +1,5 @@
+int main () {
+            boolean a, b;
+            b = true;
+            a = !(!(!b));
+        }

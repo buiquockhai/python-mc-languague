@@ -1,0 +1,6 @@
+int main(int a[]) {
+            string c;
+        }
+        void foo(int a) {
+            boolean b[10];
+        }

@@ -1,0 +1,4 @@
+
+        int main() {
+            if(a) if(b) if(c) a; else a; else
+        }

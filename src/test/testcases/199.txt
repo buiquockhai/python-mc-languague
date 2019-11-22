@@ -1,0 +1,10 @@
+ 
+        class TestUtil:
+            @staticmethod
+            def makeSource(inputStr,num):
+                filename = "./test/testcases/" + str(num) + ".txt"
+                file = open(filename,"w")
+                file.write(inputStr)
+                file.close()
+                return FileStream(filename)
+        

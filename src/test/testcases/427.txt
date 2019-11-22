@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([VarDecl(a,IntType),VarDecl(b,FloatType),For(IntLiteral(1);BinaryOp(<,Id(a),IntLiteral(10));Id(b);Block([CallExpr(Id(putint),[IntLiteral(Wrong in expression 3)])])),Return()]))])

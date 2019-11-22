@@ -1,0 +1,6 @@
+
+        float a,b,c;
+        void Dog_Function() {
+            a = b = c = 10;
+        }
+        int main() {}

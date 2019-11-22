@@ -1,0 +1,4 @@
+int main(float b, boolean c[]) {}
+        string[] foo(int a[]) {
+            print("Hello Python3");
+        }

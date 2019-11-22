@@ -1,0 +1,7 @@
+
+        float Dog_Function() {}
+        void Cat_Function() {
+            // Wrong main type function
+            printf("Hello Antlr4");
+        }
+        boolean main() {}

@@ -1,0 +1,5 @@
+int main() {}
+        int a;
+        float b[10];
+        string c;
+        boolean d, e[5], f;

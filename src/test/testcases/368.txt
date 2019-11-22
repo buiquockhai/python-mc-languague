@@ -1,0 +1,5 @@
+int main () {
+            float a, b, c[10];
+            a = ((b * c[0] + (b - c[1]) / c[2]) == 3);
+            print(a);
+        }

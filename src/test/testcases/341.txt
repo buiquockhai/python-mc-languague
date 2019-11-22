@@ -1,0 +1,8 @@
+int[] main(int a) {
+            for (1;true;true) {
+                if (a==2) a = a +2;
+                else {
+                    for (1;2;3) {}
+                }
+            }
+        }

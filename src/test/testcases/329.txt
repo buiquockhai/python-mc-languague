@@ -1,0 +1,6 @@
+int main() {
+            if (1) {} {}
+            if (1+1) {
+                do print("Hello Python3"); while (true);
+            }
+        }

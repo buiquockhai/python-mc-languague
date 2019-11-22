@@ -1,0 +1,1 @@
+<,script,>,alert,(,Hello Antlr4,),;,<,/,script,>,<EOF>

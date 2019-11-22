@@ -1,0 +1,10 @@
+int[] main() {
+            string str;
+            if (str!=isempty(null)) {
+                int a;
+                for (a;a<10;a=a+1) print(str[a]);
+            }
+            else{
+                break;
+            }
+        }

@@ -1,0 +1,9 @@
+int main() {
+            if (a && false) {
+                if (true) int a;
+            }
+            else {
+                if (false) int b;
+                else int c;
+            }
+        }

@@ -1,0 +1,20 @@
+
+        int main() {
+            string str[1000];
+            string fname[20];
+            fname = "test.txt";
+            printf(" Create a file (test.txt) and input text :");
+            printf("----------------------------------------------"); 
+            fptr = fopen(fname,"w");	
+            if(fptr==NULL) {
+                printf(" Error in opening file!");
+                exit(1);
+            }
+            printf(" Input a sentence for the file : ");
+            fgets(str, sizeof(str), stdin);
+            fprintf(fptr,"%s",str);
+            fclose(fptr);
+            printf(" The file %s created successfully...!!",fname);
+            return 0;
+        }
+        

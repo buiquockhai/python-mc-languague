@@ -1,0 +1,3 @@
+int main () {
+            return (foo(!(a==2)==true));
+        }

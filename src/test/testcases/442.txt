@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[],FloatType,Block([Return(IntLiteral(1))])),FuncDecl(Id(main),[],VoidType,Block([VarDecl(a,IntType),BinaryOp(=,Id(a),CallExpr(Id(foo),[])),Return()]))])

@@ -1,0 +1,14 @@
+
+        void main()
+        {
+            int a, b;
+            float S;
+            S = 0;
+            printf("Nhap vao so nguyen thu nhat = ");
+            scanf("%d", a);
+            printf("Nhap vao so nguyen thu hai = ");
+            scanf("%d", b);
+            S = a*a + b*b;
+            printf("Tong binh phuong 2 so = %d^2 + %d^2 = %d ", a, b, S);
+            getch();
+        }

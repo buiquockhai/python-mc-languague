@@ -1,0 +1,5 @@
+
+        int main() {
+            if (if(a)) {} a = b = c = 3;
+            else {}
+        }

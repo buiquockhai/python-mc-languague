@@ -1,0 +1,1 @@
+using,namespace,std,;,int,main,(,),{,cout,<,<,Hello Antlr4,;,return,0,;,},<EOF>

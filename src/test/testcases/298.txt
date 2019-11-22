@@ -1,0 +1,28 @@
+
+        void main()
+        {
+            float MAX;
+            float a, b, c, d;
+            printf("Nhap a: ");
+            scanf("%f", a);
+            printf("Nhap b: ");
+            scanf("%f", b);
+            printf("Nhap c: ");
+            scanf("%f", c);
+            printf("Nhap d: ");
+            scanf("%f", d);
+        
+            MAX = max(max(a, b), max(c, d));
+            printf("MAX(%f,%f,%f,%f) = %f", a, b, c, d, MAX);
+            getch();
+        }
+        
+        float max(float x, float y)
+        {
+            float max;
+            if(x > y)
+                max = x;
+            else
+                max = y;
+            return max;
+        }

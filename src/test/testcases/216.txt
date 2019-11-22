@@ -1,0 +1,4 @@
+
+        float[] foo(int a,float b[]) {}
+        int main() {}
+        string Cat_Function() {}

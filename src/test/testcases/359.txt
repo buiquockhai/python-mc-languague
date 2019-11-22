@@ -1,0 +1,7 @@
+int count(string arr[]){
+            return len(arr);
+        }
+        int main() {
+            if (!a && !b) print(count(arr));
+            return 0;
+        }

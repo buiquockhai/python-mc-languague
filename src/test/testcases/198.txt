@@ -1,0 +1,8 @@
+ 
+        <form method="POST" action="" enctype="multipart/form-data">
+		    <label>
+			    <input type="file" name="file" placeholder="Choose your file">
+			    <input type="submit" name="submit">
+		    </label>
+	    </form>
+        

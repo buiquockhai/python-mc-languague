@@ -1,0 +1,12 @@
+
+        int main() {
+            float s, j, d, i;
+            for(i=1; i<=7; i=i+2){
+                d = (i/j);
+                s = s+ 1.72E-1;
+                j = j*2;
+            }
+            printf("Value of series: %.2lf", s);
+            return 0;
+        }
+        

@@ -1,0 +1,26 @@
+
+        int main() {
+            string wordPal[25];
+            printf(" Recursion : Check a given string is Palindrome or not :");
+            printf("----------------------------------------------------------");	
+            printf(" Input  a word to check for palindrome : ");
+            scanf("%s", wordPal);
+            checkPalindrome(wordPal, 0);//call the function for checking Palindore
+            return 0;
+        }
+        
+        void checkPalindrome(string wordPal[], int index) {
+            int len;
+            len = strlen(wordPal) - (index + 1);
+            if (wordPal[index] == wordPal[len]) {
+                if (index + 1 == len || index == len) {
+                    printf(" The entered word is a palindrome.");
+                    return;
+                }
+                checkPalindrome(wordPal, index + 1);//calling the function itself recursively
+            }
+            else {
+                printf(" The entered word is not a palindrome.");
+            }
+        }
+        

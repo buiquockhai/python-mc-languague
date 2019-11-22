@@ -1,0 +1,18 @@
+
+        int i, j, count;
+        int start, end;
+        int main() {
+            start = 2; 
+            end = 10;
+
+            printf("In bang cuu chuong rut gon: ");
+            for(i = start; i <= end; i=i+1) {
+                count = i;
+
+                for(j = 1; j <= 10; j=j+1) {
+                    printf(" %3d", (count*j));
+                }
+                printf("");
+            }
+            return 0;
+        }

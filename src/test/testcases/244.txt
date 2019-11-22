@@ -1,0 +1,12 @@
+
+        void Dog_Function(){
+            do {
+                do {
+                    {}
+                    {}
+                } while (a == 3);
+            } while (!true);
+        }
+        
+        int main() {
+        }

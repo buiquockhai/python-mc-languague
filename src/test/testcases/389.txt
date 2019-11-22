@@ -1,0 +1,16 @@
+
+        int main() {
+            int n;
+            printf(" Recursion : print first 50 natural numbers :");
+            printf("-------------------------------------------------"); 
+            printf(" The natural numbers are :");
+            numPrint(n);
+            return 0;
+        }
+        int numPrint(int n) {
+            if(n<=50) {
+                printf(" %d ",n);
+                numPrint(n+1);
+            }
+        }
+        

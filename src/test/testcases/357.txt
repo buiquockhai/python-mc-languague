@@ -1,0 +1,6 @@
+void foo(string a) {
+            print(a);
+        }
+        int main() {
+            if (!a == !b) return foo("Hello Python3");
+        }

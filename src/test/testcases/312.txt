@@ -1,0 +1,2 @@
+int main() {}
+        boolean a,b,c[10];

@@ -1,0 +1,14 @@
+int main (){
+            int x;
+
+            printf ("Is command processor available?");
+            if (system(NULL)) printf ("Command processor available!");
+            else {
+                printf ("Command processor not available!");
+                exit (1);
+            }
+            printf ("Executing command DIR");
+            x=system ("dir");
+            printf ("Returned value is: %d.",x);
+            return 0;
+        }

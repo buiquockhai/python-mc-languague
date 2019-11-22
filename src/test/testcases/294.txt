@@ -1,0 +1,15 @@
+
+        struct stud {
+            int roll;
+            char name[10];
+            int marks;
+        };
+        
+        int main() {
+            int size;
+            stud s;
+            size = sizeof(s);
+            printf("nKich co cua struct la: %d", size);
+            
+            return(0);
+        }

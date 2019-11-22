@@ -1,0 +1,11 @@
+int main() {
+            do {
+                a = 1 + 2;
+            } while (false);
+        }
+        void foo() {
+            int a[5];
+            do {
+                int a[10];
+            } while (0);
+        }

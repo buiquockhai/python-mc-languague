@@ -1,0 +1,6 @@
+int main() {
+            for (1;true;true) {}
+            for (1;a+2;false) {
+                string a, b[10];
+            }
+        }

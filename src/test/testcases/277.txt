@@ -1,0 +1,6 @@
+
+        void Dog_Function() {}
+        int main() {
+            printf("Hello Antlr");
+            return 0;
+        }

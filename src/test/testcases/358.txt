@@ -1,0 +1,5 @@
+int main() {
+            boolean bool_1, bool_2;
+            bool_1 = (!bool_2 || (bool_2 && true));
+            print(bool_1);
+        }

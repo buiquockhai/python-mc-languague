@@ -1,0 +1,13 @@
+
+        void Dog_Function(){
+            do {
+                int a;
+                a = 0;
+                do {
+                    a = a * a;
+                } while (true);
+            } {} while (a == b);
+        }
+        
+        int main() {
+        }

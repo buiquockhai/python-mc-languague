@@ -1,0 +1,8 @@
+
+        void Dog_Function() {}
+        int main() {
+            int i;
+            for(i=0;i<=1000;i=i+1){
+                if((a==b)||(b==5)) break;
+            }
+        }

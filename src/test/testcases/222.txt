@@ -1,0 +1,4 @@
+
+        int a,float f[5];
+        float Dog_Function() {}
+        int main() {}

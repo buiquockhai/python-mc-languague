@@ -1,0 +1,1 @@
+var,msg,=,Hello Antlr4,;,console,Error Token .

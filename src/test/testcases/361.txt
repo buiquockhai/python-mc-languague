@@ -1,0 +1,6 @@
+void main() {
+            int a;
+            a =  CallExpr(a[b[2]]);
+            print(a);
+            return;
+        }

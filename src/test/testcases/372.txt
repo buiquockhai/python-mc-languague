@@ -1,0 +1,12 @@
+int main() {
+            float N[10];
+            int i;
+            printf("Input the 5 members of the array:");
+            for(i = 0; i < AL; i=i+1) {
+                scanf("%f", N[0]);
+            }
+            for(i = 0; i < AL; i=i+1) {
+                if(N[0] < MAX) printf("A[%d] = %.1f", i, N[0]);
+            }
+            return 0;
+        }

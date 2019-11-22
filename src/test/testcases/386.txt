@@ -1,0 +1,27 @@
+int getSum(int n) {
+            int sum;
+            for (i; i<=sqrt(n); i=i+1) {
+                if (n%i==0) {
+                    if (n/i == i)
+                        sum = sum + i;
+                    else {
+                        sum = sum + i;
+                        sum = sum + (n / i);
+                    }
+                }
+            }
+            sum = sum - n;
+            return sum;
+        }
+        bool checkAbundant(int n) {
+            return getSum(n) > n;
+        }
+        int main() {
+            int n;
+            printf(" Check whether a given number is an Abundant number:");
+            printf(" --------------------------------------------------------");
+            printf(" Input an integer number: ");
+            scanf("%d",n);
+            ifStmt (checkAbundant(n), printf(" The number is Abundant."), printf(" The number is not Abundant."));
+            return 0;
+        }

@@ -1,0 +1,8 @@
+
+        float Dog_Function(boolean bool) {}
+        int main() {
+            {
+                float result;
+                result = Dog_Function(true);
+            }
+        }

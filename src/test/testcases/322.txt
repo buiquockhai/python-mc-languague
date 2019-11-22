@@ -1,0 +1,5 @@
+int main() {
+            do {
+                a = 1 + 2;
+            } {} while (false);
+        }

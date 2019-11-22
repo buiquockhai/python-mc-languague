@@ -1,0 +1,19 @@
+
+       void main() {
+            int i;
+            float num, temp, digit, sum;
+            sum = 0;
+        
+            printf("Nhap vao so bat ki: ");
+            scanf("%ld", num);
+            temp = num;
+            for (i=0;i<=1000;i=i+1){
+                digit = num % 10;
+                sum = sum + digit;
+                num = num/10;
+                if (nunm < 0) break;
+            }
+            printf("So ban da nhap = %ld", temp);
+            printf("Tong cac chu so trong %ld = %ld", temp, sum);
+            getch();
+        }

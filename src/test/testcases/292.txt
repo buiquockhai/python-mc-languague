@@ -1,0 +1,12 @@
+
+        int main() {
+            char str[100][20];
+            int len;
+            
+            printf("Nhap mot chuoi bat ky:");
+            gets(str);
+            len = strlen(str);
+            
+            printf("nDo dai cua chuoi da cho la: %d", len);
+            return(0);
+        }
